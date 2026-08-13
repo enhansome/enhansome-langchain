@@ -1,0 +1,2857 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LangChain",
+          "description": "the original 🐍",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T02:31:03Z",
+            "owner": "langchain-ai",
+            "repo": "langchain",
+            "stars": 144121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LangChain.js",
+          "description": "the js brother ✨",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T00:37:42Z",
+            "owner": "langchain-ai",
+            "repo": "langchainjs",
+            "stars": 18061
+          }
+        }
+      ],
+      "title": "LangChain Framework"
+    },
+    {
+      "description": "List of non-official ports of LangChain to other languages.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LangChain4j",
+          "description": "LangChain for Java",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T19:30:55Z",
+            "owner": "langchain4j",
+            "repo": "langchain4j",
+            "stars": 12855
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Langchain Go",
+          "description": "Golang Langchain",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-01-11T16:59:56Z",
+            "owner": "tmc",
+            "repo": "langchaingo",
+            "stars": 9607
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LangchainRb",
+          "description": "Ruby Langchain",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-11T13:06:57Z",
+            "owner": "patterns-ai-core",
+            "repo": "langchainrb",
+            "stars": 1990
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Langchain-rust",
+          "description": "LangChain for Rust",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-06T06:05:49Z",
+            "owner": "Abraxas-365",
+            "repo": "langchain-rust",
+            "stars": 1339
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Langchain",
+          "description": "Elixir implementation of a LangChain",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2026-08-06T14:05:22Z",
+            "owner": "brainlid",
+            "repo": "langchain",
+            "stars": 1192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LangChainDart",
+          "description": "Build powerful LLM-based Dart/Flutter applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-10T00:12:14Z",
+            "owner": "davidmigloz",
+            "repo": "langchain_dart",
+            "stars": 685
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Langchain-hs",
+          "description": "Haskell implementation of Haskell.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2026-08-08T18:36:12Z",
+            "owner": "tusharad",
+            "repo": "langchain-hs",
+            "stars": 52
+          }
+        }
+      ],
+      "title": "Ports to other languages"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Langflow",
+          "description": "LangFlow is a UI for LangChain",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:08:46Z",
+            "owner": "langflow-ai",
+            "repo": "langflow",
+            "stars": 153138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flowise",
+          "description": "Drag & drop UI to build your customized LLM flow using LangchainJS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T14:56:00Z",
+            "owner": "FlowiseAI",
+            "repo": "Flowise",
+            "stars": 55362
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flock",
+          "description": "Flock is a workflow-based low-code platform for rapidly building chatbots, RAG, and coordinating multi-agent teams",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-07T07:21:42Z",
+            "owner": "Onelevenvy",
+            "repo": "flock",
+            "stars": 1097
+          }
+        }
+      ],
+      "title": "Low-code"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dify",
+          "description": "One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T04:22:46Z",
+            "owner": "langgenius",
+            "repo": "dify",
+            "stars": 152277
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CopilotKit",
+          "description": "A framework for building custom AI Copilots 🤖 in-app AI chatbots, in-app AI Agents, & AI-powered Textareas",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T22:23:15Z",
+            "owner": "CopilotKit",
+            "repo": "CopilotKit",
+            "stars": 36726
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gorilla",
+          "description": "An API store for LLMs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-13T03:19:45Z",
+            "owner": "ShishirPatil",
+            "repo": "gorilla",
+            "stars": 12992
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chainlit",
+          "description": "Build Python LLM apps in minutes ⚡️",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T11:11:47Z",
+            "owner": "Chainlit",
+            "repo": "chainlit",
+            "stars": 12379
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GPTCache",
+          "description": "A Library for Creating Semantic Cache for LLM Queries",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-11T09:04:36Z",
+            "owner": "zilliztech",
+            "repo": "GPTCache",
+            "stars": 8130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LangWatch",
+          "description": "An Open Source tool for observing, evaluating and optimising your llm apps and prompts, which supports LangChain out of the box!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T20:21:06Z",
+            "owner": "langwatch",
+            "repo": "langwatch",
+            "stars": 3486
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UQLM",
+          "description": "UQLM: Uncertainty Quantification for Language Models, is a Python library for LLM hallucination detection using state-of-the-art uncertainty quantification techniques",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T02:00:52Z",
+            "owner": "cvs-health",
+            "repo": "uqlm",
+            "stars": 1190
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Auto-evaluator",
+          "description": "a lightweight evaluation tool for question-answering using Langchain",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-10T02:00:18Z",
+            "owner": "rlancemartin",
+            "repo": "auto-evaluator",
+            "stars": 1102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swiss Army Llama",
+          "description": "Llama2 Embeddings FastAPI Service using LangChain",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-27T11:19:55Z",
+            "owner": "Dicklesworthstone",
+            "repo": "swiss_army_llama",
+            "stars": 1056
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agentic Radar",
+          "description": "Open-source CLI security scanner for agentic workflows. Scans your workflow’s source code, detects vulnerabilities, and generates an interactive visualization along with a detailed security report.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-27T15:28:44Z",
+            "owner": "splx-ai",
+            "repo": "agentic-radar",
+            "stars": 1030
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Langchain visualizer",
+          "description": "visualization and debugging tool for LangChain workflows",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-06T02:59:14Z",
+            "owner": "amosjyng",
+            "repo": "langchain-visualizer",
+            "stars": 737
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MindSQL",
+          "description": "A python package for Txt-to-SQL with self hosting functionalities and RESTful APIs compatible with proprietary as well as open source LLM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-16T09:31:05Z",
+            "owner": "Mindinventory",
+            "repo": "MindSQL",
+            "stars": 447
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LLM Strategy",
+          "description": "implementing the Strategy Pattern using LLMs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-03T20:31:25Z",
+            "owner": "BlackHC",
+            "repo": "llm-strategy",
+            "stars": 400
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "datasetGPT",
+          "description": "A command-line interface to generate textual and conversational datasets with LLMs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-25T16:39:10Z",
+            "owner": "radi-cho",
+            "repo": "datasetGPT",
+            "stars": 300
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Llama-github",
+          "description": "Llama-github is a python library which built with Langchain framework that helps you retrieve the most relevant code snippets, issues, and repository information from GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T17:00:30Z",
+            "owner": "JetXu-LLM",
+            "repo": "llama-github",
+            "stars": 292
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LangFair",
+          "description": "LangFair is a Python library for conducting use-case-specific LLM bias and fairness assessments",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-29T20:15:23Z",
+            "owner": "cvs-health",
+            "repo": "langfair",
+            "stars": 261
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Langchain Decorators",
+          "description": "a layer on the top of LangChain that provides syntactic sugar 🍭 for writing custom langchain prompts and chains",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-18T09:56:28Z",
+            "owner": "ju-bezdek",
+            "repo": "langchain-decorators",
+            "stars": 233
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChatAbstractions",
+          "description": "LangChain chat model abstractions for dynamic failover, load balancing, chaos engineering, and more!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-29T23:22:00Z",
+            "owner": "andrewnguonly",
+            "repo": "ChatAbstractions",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AilingBot",
+          "description": "Quickly integrate applications built on Langchain into IM such as Slack, WeChat Work, Feishu, DingTalk.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-28T03:12:27Z",
+            "owner": "ericzhang-cn",
+            "repo": "ailingbot",
+            "stars": 64
+          }
+        }
+      ],
+      "title": "Services"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Private GPT",
+          "description": "Interact privately with your documents using the power of GPT, 100% privately, no data leaks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T12:36:47Z",
+            "owner": "zylon-ai",
+            "repo": "private-gpt",
+            "stars": 57433
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CrewAI",
+          "description": "Cutting-edge framework for orchestrating role-playing, autonomous AI agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:09:44Z",
+            "owner": "crewAIInc",
+            "repo": "crewAI",
+            "stars": 57004
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Colossal-AI",
+          "description": "LLM training and inference system whose ColossalChat application implements LLM with RLHF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T17:47:01Z",
+            "owner": "hpcaitech",
+            "repo": "ColossalAI",
+            "stars": 41435
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GPT Researcher",
+          "description": "GPT Researcher is an autonomous agent designed for comprehensive online research on a variety of tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-18T07:56:55Z",
+            "owner": "assafelovic",
+            "repo": "gpt-researcher",
+            "stars": 28951
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "deepagents",
+          "description": "LangChain's framework for building deep agents that plan, delegate to sub-agents, and work against a virtual file system over long-horizon tasks. Includes dcode, a model-agnostic open-source coding agent.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T02:05:08Z",
+            "owner": "langchain-ai",
+            "repo": "deepagents",
+            "stars": 27711
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Local GPT",
+          "description": "Inspired on Private GPT with the GPT4ALL model replaced with the Vicuna-7B model and using the InstructorEmbeddings instead of LlamaEmbeddings",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-18T07:15:01Z",
+            "owner": "PromtEngineer",
+            "repo": "localGPT",
+            "stars": 22206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SuperAGI",
+          "description": "SuperAGI - A dev-first open source autonomous AI agent framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-22T22:14:07Z",
+            "owner": "TransformerOptimus",
+            "repo": "SuperAGI",
+            "stars": 17653
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Voyager",
+          "description": "An Open-Ended Embodied Agent with Large Language Models",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-04-03T18:51:36Z",
+            "owner": "MineDojo",
+            "repo": "Voyager",
+            "stars": 7137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SuperAgent",
+          "description": "Deploy LLM Agents to production",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-11T08:34:31Z",
+            "owner": "superagent-ai",
+            "repo": "superagent",
+            "stars": 6712
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RasaGPT",
+          "description": "RasaGPT is the first headless LLM chatbot platform built on top of Rasa and Langchain.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-12T14:43:36Z",
+            "owner": "paulpierre",
+            "repo": "RasaGPT",
+            "stars": 2464
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DemoGPT",
+          "description": "DemoGPT enables you to create quick demos by just using prompt. It applies ToT approach on Langchain documentation tree.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-01T12:30:12Z",
+            "owner": "melih-unsal",
+            "repo": "DemoGPT",
+            "stars": 1904
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ThinkGPT",
+          "description": "Agent techniques to augment your LLM and push it beyond its limits",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-23T13:04:46Z",
+            "owner": "jina-ai",
+            "repo": "thinkgpt",
+            "stars": 1582
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ix",
+          "description": "Autonomous GPT-4 agent platform",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-01T05:38:33Z",
+            "owner": "kreneskyp",
+            "repo": "ix",
+            "stars": 1044
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SkyAGI",
+          "description": "Emerging human-behavior simulation capability in LLM agents",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-09-21T12:38:34Z",
+            "owner": "litanlitudan",
+            "repo": "skyagi",
+            "stars": 778
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multi-Modal LangChain agents in Production",
+          "description": "Deploy LangChain Agents and connect them to Telegram",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-27T15:01:48Z",
+            "owner": "steamship-core",
+            "repo": "langchain-production-starter",
+            "stars": 477
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Autonomous HR Chatbot",
+          "description": "An autonomous agent that can answer HR related queries autonomously using the tools it has on hand",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-29T06:34:58Z",
+            "owner": "stepanogil",
+            "repo": "autonomous-hr-chatbot",
+            "stars": 460
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlockAGI",
+          "description": "BlockAGI conducts iterative, domain-specific research, and outputs detailed narrative reports to showcase its findings",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-19T04:10:24Z",
+            "owner": "orgexyz",
+            "repo": "BlockAGI",
+            "stars": 322
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyCodeAGI",
+          "description": "A small AGI experiment to generate a Python app given what app the user wants to build",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-04T06:48:22Z",
+            "owner": "chakkaradeep",
+            "repo": "pyCodeAGI",
+            "stars": 185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DuetGPT",
+          "description": "A conversational semi-autonomous developer assistant, AI pair programming without the copypasta.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-06-19T13:12:11Z",
+            "owner": "kristoferlund",
+            "repo": "duet-gpt",
+            "stars": 168
+          }
+        }
+      ],
+      "title": "Agents"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mem0",
+          "description": "Universal memory layer for AI agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T02:35:11Z",
+            "owner": "mem0ai",
+            "repo": "mem0",
+            "stars": 63152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI",
+          "description": "Vercel template to build AI-powered applications with React, Svelte, and Vue, first class support for LangChain",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T04:21:12Z",
+            "owner": "vercel",
+            "repo": "ai",
+            "stars": 26153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI Getting Started",
+          "description": "A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-08-21T12:35:18Z",
+            "owner": "a16z-infra",
+            "repo": "ai-getting-started",
+            "stars": 4141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "create-t3-turbo-ai",
+          "description": "t3 based, Langchain-friendly boilerplate for building type-safe, full-stack, LLM-powered web apps with Nextjs and Prisma",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-02-27T22:37:21Z",
+            "owner": "zckly",
+            "repo": "create-t3-turbo-ai",
+            "stars": 354
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Streamlit Template",
+          "description": "template for how to deploy a LangChain on Streamlit",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-11T03:25:35Z",
+            "owner": "hwchase17",
+            "repo": "langchain-streamlit-template",
+            "stars": 297
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gradio Template",
+          "description": "template for how to deploy a LangChain on Gradio",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-19T21:24:11Z",
+            "owner": "hwchase17",
+            "repo": "langchain-gradio-template",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Codespaces Template",
+          "description": "a Codespaces template for getting up-and-running with LangChain in seconds!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-03-22T19:42:16Z",
+            "owner": "lostintangent",
+            "repo": "codespaces-langchain",
+            "stars": 113
+          }
+        }
+      ],
+      "title": "Templates"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Openllmetry",
+          "description": "Open-source observability for your LLM application, based on OpenTelemetry",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T08:49:01Z",
+            "owner": "traceloop",
+            "repo": "openllmetry",
+            "stars": 7375
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "traceAI",
+          "description": "Open-source OpenTelemetry-native tracing framework for LLM applications, with native LangChain instrumentation and support for 20+ frameworks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T12:50:10Z",
+            "owner": "future-agi",
+            "repo": "traceAI",
+            "stars": 212
+          }
+        }
+      ],
+      "title": "Platforms"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Open Source Projects"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Anything LLM",
+          "description": "A full-stack application that turns any documents into an intelligent chatbot with a sleek UI and easier way to manage your workspaces.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T00:34:53Z",
+            "owner": "Mintplex-Labs",
+            "repo": "anything-llm",
+            "stars": 64667
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quivr",
+          "description": "Opinionated RAG for integrating GenAI into your apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-09T12:55:23Z",
+            "owner": "QuivrHQ",
+            "repo": "quivr",
+            "stars": 39394
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DocsGPT",
+          "description": "GPT-powered chat for documentation search & assistance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T16:06:01Z",
+            "owner": "arc53",
+            "repo": "DocsGPT",
+            "stars": 18213
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChatFiles",
+          "description": "Upload your document and then chat with it. Powered by GPT / Embedding / TS / NextJS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-12-17T10:26:50Z",
+            "owner": "guangzhengli",
+            "repo": "ChatFiles",
+            "stars": 3341
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chaindesk",
+          "description": "The no-code platform for semantic search and documents retrieval",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-17T12:36:06Z",
+            "owner": "gmpetrov",
+            "repo": "databerry",
+            "stars": 2965
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SolidGPT",
+          "description": "Chat everything with your code repository, ask repository level code questions, and discuss your requirements",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-12T04:58:38Z",
+            "owner": "AI-Citizen",
+            "repo": "SolidGPT",
+            "stars": 1794
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "examor",
+          "description": "A website application that allows you to take exams based on your knowledge notes. Let you really remember what you have learned and written.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-06-18T01:44:32Z",
+            "owner": "codeacme17",
+            "repo": "examor",
+            "stars": 1070
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Minima",
+          "description": "Chat with local documents, connect local environment to ChatGPT or Claude",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-22T09:22:09Z",
+            "owner": "Minima-AI-Inc",
+            "repo": "minima",
+            "stars": 1047
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DataChad",
+          "description": "A streamlit app that lets you chat with any data source. Supporting both OpenAI and local mode with GPT4All.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-09T11:33:46Z",
+            "owner": "gustavz",
+            "repo": "DataChad",
+            "stars": 321
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Repochat",
+          "description": "Chatbot assistant enabling GitHub repository interaction using LLMs with Retrieval Augmented Generation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-28T18:59:58Z",
+            "owner": "pnkvalavala",
+            "repo": "repochat",
+            "stars": 317
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Second Brain AI Agent",
+          "description": "A streamlit app dialog with your second brain notes using OpenAI and ChromaDB locally.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-05T10:04:37Z",
+            "owner": "flepied",
+            "repo": "second-brain-agent",
+            "stars": 312
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DocNavigator",
+          "description": "AI-powered chatbot builder that is designed to improve the user experience on product documentation/support websites",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-10-23T04:42:41Z",
+            "owner": "vgulerianb",
+            "repo": "DocNavigator",
+            "stars": 130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pdfmux",
+          "description": "PDF-to-Markdown extraction with per-page confidence scoring and self-healing fallback. Native LangChain document loader (); built for RAG pipelines that can't tolerate silent extraction failures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T12:20:13Z",
+            "owner": "NameetP",
+            "repo": "pdfmux",
+            "stars": 79
+          }
+        }
+      ],
+      "title": "Knowledge Management"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LobeHub",
+          "description": "An open-source, extensible (Function Calling), high-performance chatbot framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:34:35Z",
+            "owner": "lobehub",
+            "repo": "lobehub",
+            "stars": 81621
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI Chatbot",
+          "description": "A full-featured, hackable Next.js AI chatbot built by Vercel Labs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-08T21:55:02Z",
+            "owner": "vercel",
+            "repo": "chatbot",
+            "stars": 20821
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DB GPT",
+          "description": "Interact your data and environment using the local GPT, no data leaks, 100% privately, 100% security",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T09:31:45Z",
+            "owner": "eosphoros-ai",
+            "repo": "DB-GPT",
+            "stars": 19708
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AudioGPT",
+          "description": "Understanding and Generating Speech, Music, Sound, and Talking Head",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-06T21:35:18Z",
+            "owner": "AIGC-Audio",
+            "repo": "AudioGPT",
+            "stars": 10172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Paper QA",
+          "description": "LLM Chain for answering questions from documents with citations",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T15:33:57Z",
+            "owner": "Future-House",
+            "repo": "paper-qa",
+            "stars": 9020
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XAgent",
+          "description": "An Autonomous LLM Agent for Complex Task Solving",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-31T03:30:54Z",
+            "owner": "OpenBMB",
+            "repo": "XAgent",
+            "stars": 8531
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GPT Migrate",
+          "description": "Easily migrate your codebase from one framework or language to another.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-17T23:13:51Z",
+            "owner": "joshpxyne",
+            "repo": "gpt-migrate",
+            "stars": 6980
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chat Langchain",
+          "description": "locally hosted chatbot specifically focused on question answering over the LangChain documentation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T14:48:18Z",
+            "owner": "langchain-ai",
+            "repo": "chat-langchain",
+            "stars": 6432
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Code Interpreter API",
+          "description": "About Open source implementation of the ChatGPT Code Interpreter",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-07T03:28:33Z",
+            "owner": "shroominic",
+            "repo": "codeinterpreter-api",
+            "stars": 3846
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cheshire Cat",
+          "description": "Custom AGI boT with ready-to-use chat integration and plugins development platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-29T12:44:29Z",
+            "owner": "cheshire-cat-ai",
+            "repo": "core",
+            "stars": 3081
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Notion QA",
+          "description": "Notion Question-Answering Bot",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-06T05:18:06Z",
+            "owner": "hwchase17",
+            "repo": "notion-qa",
+            "stars": 2155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MemFree",
+          "description": "Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs. Support One-Click Deployment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-06T12:02:53Z",
+            "owner": "memfreeme",
+            "repo": "memfree",
+            "stars": 1508
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Langchain Chat",
+          "description": "another Next.js frontend for LangChain Chat.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-16T05:47:06Z",
+            "owner": "zahidkhawaja",
+            "repo": "langchain-chat-nextjs",
+            "stars": 1015
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ThoughtSource⚡",
+          "description": "A framework for the science of machine thinking",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-12-16T15:41:40Z",
+            "owner": "OpenBioLink",
+            "repo": "ThoughtSource",
+            "stars": 1015
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MM ReAct",
+          "description": "Multi Modal ReAct Design",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-31T21:37:28Z",
+            "owner": "microsoft",
+            "repo": "MM-REACT",
+            "stars": 967
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TutorGPT",
+          "description": "Dynamic few-shot metaprompting for the task of tutoring.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-20T07:07:01Z",
+            "owner": "plastic-labs",
+            "repo": "tutor-gpt",
+            "stars": 921
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Entaoai",
+          "description": "ChatGPT + Enterprise data with Azure OpenAI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-01-02T16:23:18Z",
+            "owner": "akshata29",
+            "repo": "entaoai",
+            "stars": 866
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Robby-Chatbot",
+          "description": "AI chatbot 🤖 for chat with CSV, PDF, TXT files 📄 and YTB videos 🎥 | using Langchain🦜 | OpenAI | Streamlit ⚡.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-21T09:38:01Z",
+            "owner": "yvann-ba",
+            "repo": "Robby-chatbot",
+            "stars": 813
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Doc Search",
+          "description": "converse with book - Built with GPT-3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-01T00:11:26Z",
+            "owner": "namuan",
+            "repo": "dr-doc-search",
+            "stars": 598
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "snowChat ❄️",
+          "description": "Chat with you're snowflake database",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-16T19:23:23Z",
+            "owner": "kaarthik108",
+            "repo": "snowChat",
+            "stars": 553
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Book GPT",
+          "description": "drop a book, start asking question.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-04-03T13:23:17Z",
+            "owner": "fraserxu",
+            "repo": "book-gpt",
+            "stars": 436
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Funcchain",
+          "description": "write prompts, pythonic",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-19T09:40:09Z",
+            "owner": "shroominic",
+            "repo": "funcchain",
+            "stars": 341
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Instrukt",
+          "description": "A fully-fledged AI environment in the terminal. Build, test and instruct agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-14T03:06:35Z",
+            "owner": "blob42",
+            "repo": "Instrukt",
+            "stars": 330
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fact Checker",
+          "description": "fact-checking LLM outputs with langchain",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-10-23T21:08:13Z",
+            "owner": "jagilley",
+            "repo": "fact-checker",
+            "stars": 312
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FlowGPT",
+          "description": "Generate diagram with AI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-10-06T09:39:57Z",
+            "owner": "nilooy",
+            "repo": "flowgpt",
+            "stars": 301
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MindGeniusAI",
+          "description": "Auto generate MindMap with ChatGPT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-29T12:19:28Z",
+            "owner": "xianjianlf2",
+            "repo": "MindGeniusAI",
+            "stars": 280
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QABot",
+          "description": "Query local or remote files or databases with natural language queries powered by langchain and openai",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-05T21:10:51Z",
+            "owner": "hardbyte",
+            "repo": "qabot",
+            "stars": 245
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Langchain Chat Websocket",
+          "description": "About LangChain LLM chat with streaming response over websockets",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-11-30T07:25:04Z",
+            "owner": "pors",
+            "repo": "langchain-chat-websockets",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "langchain_yt_tools",
+          "description": "Langchain tools to search/extract/transcribe text transcripts of Youtube videos",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-28T15:54:33Z",
+            "owner": "venuv",
+            "repo": "langchain_yt_tools",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PersonalityChatbot",
+          "description": "Langchain chatbot for chat with personality using Langchain🦜 | LangSmith | MongoDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-26T08:09:25Z",
+            "owner": "minhbtrc",
+            "repo": "langchain-chatbot",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chat with Scanned Documents",
+          "description": "A demo chatting with documents scanned with Dynamic Web TWAIN.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-05-25T01:41:00Z",
+            "owner": "tony-xlh",
+            "repo": "Chat-with-Scanned-Documents",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Other / Chatbots"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Learn"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LangChain Chinese Getting Started Guide",
+          "description": "Chinese LangChain Tutorial for Beginners",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-22T16:31:50Z",
+            "owner": "liaokongVFX",
+            "repo": "LangChain-Chinese-Getting-Started-Guide",
+            "stars": 9095
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Langchain Tutorials",
+          "description": "overview and tutorial of the LangChain Library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-08-05T09:18:46Z",
+            "owner": "gkamradt",
+            "repo": "langchain-tutorials",
+            "stars": 7484
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LangChain Handbook",
+          "description": "Pinecone / James Briggs' LangChain handbook",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-09T08:57:07Z",
+            "owner": "pinecone-io",
+            "repo": "examples",
+            "stars": 3035
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Large Language Models Course",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-05-28T06:32:56Z",
+            "owner": "peremartra",
+            "repo": "Large-Language-Model-Notebooks-Course",
+            "stars": 1820
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BYO Knowledge Graph",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-24T23:48:14Z",
+            "owner": "prof-frink-lab",
+            "repo": "slangchain",
+            "stars": 199
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "llm-lobbyist",
+          "description": "Large Language Models as Corporate Lobbyists",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-01-13T03:31:25Z",
+            "owner": "JohnNay",
+            "repo": "llm-lobbyist",
+            "stars": 174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Langchain Semantic Search",
+          "description": "Search and indexing your own Google Drive Files using GPT3, LangChain, and Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-02-07T11:42:25Z",
+            "owner": "venuv",
+            "repo": "langchain_semantic_search",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learn LangChain (JS)",
+          "description": "A structured, example-driven LangChain JS learning repository covering prompts, chains, tools, embeddings, RAG, agents, Puppeteer scraping, and LangGraph-based multi-agent workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-11-26T14:32:43Z",
+            "owner": "iparesh18",
+            "repo": "Learn-LangChain",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Notebooks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MetaGPT",
+          "description": "The Multi-Agent Meta Programming Framework: Given one line Requirement, return PRD, Design, Tasks, Repo and CI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-21T10:12:33Z",
+            "owner": "FoundationAgents",
+            "repo": "MetaGPT",
+            "stars": 69799
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Autogen",
+          "description": "Enable Next-Gen Large Language Model Applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-15T11:59:09Z",
+            "owner": "microsoft",
+            "repo": "autogen",
+            "stars": 60389
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LlamaIndex",
+          "description": "provides a central interface to connect your LLM's with external data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T21:56:49Z",
+            "owner": "run-llama",
+            "repo": "llama_index",
+            "stars": 51602
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agno",
+          "description": "Build, run, and manage agent platforms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T00:14:29Z",
+            "owner": "agno-agi",
+            "repo": "agno",
+            "stars": 41682
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DSPy",
+          "description": "The framework for programming—not prompting—foundation models",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T19:41:42Z",
+            "owner": "stanfordnlp",
+            "repo": "dspy",
+            "stars": 37154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GPT Pilot",
+          "description": "GPT Pilot is the core technology for the Pythagora VS Code extension that aims to provide the first real AI developer companion.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-18T18:38:25Z",
+            "owner": "Pythagora-io",
+            "repo": "gpt-pilot",
+            "stars": 33700
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgentScope",
+          "description": "Start building LLM-empowered multi-agent applications in an easier way.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T04:17:58Z",
+            "owner": "agentscope-ai",
+            "repo": "agentscope",
+            "stars": 28897
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Semantic Kernel",
+          "description": "Microsoft C# SDK to integrate cutting-edge LLM technology quickly and easily into your apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T17:05:12Z",
+            "owner": "microsoft",
+            "repo": "semantic-kernel",
+            "stars": 28445
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mastra AI",
+          "description": "a framework for building AI-powered applications and agents with a modern TypeScript stack.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T02:28:45Z",
+            "owner": "mastra-ai",
+            "repo": "mastra",
+            "stars": 27153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Haystack",
+          "description": "NLP framework to interact with your data using Transformer models and LLMs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T16:17:53Z",
+            "owner": "deepset-ai",
+            "repo": "haystack",
+            "stars": 26189
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Letta",
+          "description": "Platform for stateful agents with advanced memory that learn and self-improve",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-01T18:24:30Z",
+            "owner": "letta-ai",
+            "repo": "letta",
+            "stars": 24220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Promptfoo",
+          "description": "Test your prompts. Evaluate and compare LLM outputs, catch regressions, and improve prompt quality.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T04:23:09Z",
+            "owner": "promptfoo",
+            "repo": "promptfoo",
+            "stars": 24185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SWE Agent",
+          "description": "SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T22:08:15Z",
+            "owner": "SWE-agent",
+            "repo": "SWE-agent",
+            "stars": 20053
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Outlines",
+          "description": "Fast and reliable neural text generation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T16:18:55Z",
+            "owner": "dottxt-ai",
+            "repo": "outlines",
+            "stars": 15588
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Plandex",
+          "description": "An AI coding engine for complex tasks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-10-03T21:49:58Z",
+            "owner": "plandex-ai",
+            "repo": "plandex",
+            "stars": 15580
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Botpress",
+          "description": "The building blocks for building chatbots",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T20:08:04Z",
+            "owner": "botpress",
+            "repo": "botpress",
+            "stars": 14862
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Llmware",
+          "description": "Providing enterprise-grade LLM-based development framework, tools, and fine-tuned models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-17T13:53:37Z",
+            "owner": "llmware-ai",
+            "repo": "llmware",
+            "stars": 14852
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI Scientist",
+          "description": "The AI Scientist: Towards Fully Automated Open-Ended Scientific",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-12-19T07:46:21Z",
+            "owner": "SakanaAI",
+            "repo": "AI-Scientist",
+            "stars": 14386
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pipecat",
+          "description": "Open Source framework for voice and multimodal conversational AI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:20:56Z",
+            "owner": "pipecat-ai",
+            "repo": "pipecat",
+            "stars": 14088
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "e2b",
+          "description": "Open-source platform for building & deploying virtual developers’ agents",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T17:10:45Z",
+            "owner": "e2b-dev",
+            "repo": "E2B",
+            "stars": 13371
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TextAI",
+          "description": "💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T13:42:39Z",
+            "owner": "neuml",
+            "repo": "txtai",
+            "stars": 12884
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gateway",
+          "description": "A Blazing Fast AI Gateway. Route to 100+ LLMs with 1 fast & friendly API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-25T13:54:51Z",
+            "owner": "Portkey-AI",
+            "repo": "gateway",
+            "stars": 12703
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Eino",
+          "description": "Eino provides a Golang AI application development framework with various component integrations and the ability to orchestrate Chains and Graphs similar to LangChain and LangGraph.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T12:28:14Z",
+            "owner": "cloudwego",
+            "repo": "eino",
+            "stars": 12690
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenLLM",
+          "description": "An open platform for operating large language models (LLMs) in production. Fine-tune, serve, deploy, and monitor any LLMs with ease using OpenLLM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T17:00:58Z",
+            "owner": "bentoml",
+            "repo": "OpenLLM",
+            "stars": 12482
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Claude Engineer",
+          "description": "Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-12T22:08:15Z",
+            "owner": "Doriandarko",
+            "repo": "claude-engineer",
+            "stars": 11226
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TypeChat",
+          "description": "TypeChat is a library that makes it easy to build natural language interfaces using types.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T09:29:25Z",
+            "owner": "microsoft",
+            "repo": "TypeChat",
+            "stars": 8679
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "R2R",
+          "description": "A framework for rapid development and deployment of production-ready RAG systems",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-07T01:02:44Z",
+            "owner": "SciPhi-AI",
+            "repo": "R2R",
+            "stars": 7958
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FinRobot",
+          "description": "An Open-Source AI Agent Platform for Financial Applications using LLMs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-27T07:06:05Z",
+            "owner": "AI4Finance-Foundation",
+            "repo": "FinRobot",
+            "stars": 7771
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bifrost",
+          "description": "Bifrost is the fastest LLM gateway, with just 11μs overhead at 5,000 RPS, making it 50x faster than LiteLLM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T00:41:51Z",
+            "owner": "maximhq",
+            "repo": "bifrost",
+            "stars": 7273
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Marvin",
+          "description": "✨ Build AI interfaces that spark joy",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-31T18:12:50Z",
+            "owner": "PrefectHQ",
+            "repo": "marvin",
+            "stars": 6188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenAgent",
+          "description": "Open-source AI LangChain-like RAG (Retrieval-Augmented Generation) knowledge database with web UI and Enterprise SSO⚡️, supports OpenAI, Azure, LLaMA, Google Gemini, HuggingFace, Claude, Grok, etc",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-07T14:38:08Z",
+            "owner": "the-open-agent",
+            "repo": "openagent",
+            "stars": 5510
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vision agent",
+          "description": "Vision Agent is a library that helps you utilize agent frameworks to generate code to solve your vision task.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-29T06:23:55Z",
+            "owner": "landing-ai",
+            "repo": "vision-agent",
+            "stars": 5292
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgentVerse",
+          "description": "Provides a flexible framework that simplifies the process of building custom multi-agent environments for LLMs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-09-09T05:47:44Z",
+            "owner": "OpenBMB",
+            "repo": "AgentVerse",
+            "stars": 5102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rivet",
+          "description": "An IDE for creating complex AI agents and prompt chaining, and embedding it in your application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-15T23:58:52Z",
+            "owner": "Ironclad",
+            "repo": "rivet",
+            "stars": 4660
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Promptify",
+          "description": "Prompt Engineering | Use GPT or other prompt based models to get structured output.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-27T01:09:45Z",
+            "owner": "promptslab",
+            "repo": "Promptify",
+            "stars": 4631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Maestro",
+          "description": "A framework for Claude Opus to intelligently orchestrate subagents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-01T06:49:15Z",
+            "owner": "Doriandarko",
+            "repo": "maestro",
+            "stars": 4360
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LMQL",
+          "description": "A programming language for large language models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-22T07:32:31Z",
+            "owner": "eth-sri",
+            "repo": "lmql",
+            "stars": 4203
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Langroid",
+          "description": "an intuitive, lightweight, extensible and principled Python framework to easily build LLM-powered applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-29T12:59:53Z",
+            "owner": "langroid",
+            "repo": "langroid",
+            "stars": 4095
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FlagAI",
+          "description": "FlagAI (Fast LArge-scale General AI models) is a fast, easy-to-use and extensible toolkit for large-scale model.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-13T03:53:45Z",
+            "owner": "FlagAI-Open",
+            "repo": "FlagAI",
+            "stars": 3870
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SimpleAIChat",
+          "description": "Python package for easily interfacing with chat apps, with robust features and minimal code complexity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-03T16:33:40Z",
+            "owner": "minimaxir",
+            "repo": "simpleaichat",
+            "stars": 3499
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AGiXT",
+          "description": "Dynamic AI agent automation platform that orchestrates instruction following and complex task management.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-28T05:57:41Z",
+            "owner": "Josh-XT",
+            "repo": "AGiXT",
+            "stars": 3208
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PromptSource",
+          "description": "About Toolkit for creating, sharing and using natural language prompts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-23T17:59:41Z",
+            "owner": "bigscience-workshop",
+            "repo": "promptsource",
+            "stars": 3027
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Memary",
+          "description": "Longterm Memory for Autonomous Agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-10-22T00:46:00Z",
+            "owner": "kingjulio8238",
+            "repo": "Memary",
+            "stars": 2638
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Griptape",
+          "description": "Python framework for AI workflows and pipelines with chain of thought reasoning, external tools, and memory.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T17:48:22Z",
+            "owner": "griptape-ai",
+            "repo": "griptape",
+            "stars": 2572
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Codel",
+          "description": "✨ Fully autonomous AI Agent that can perform complicated tasks and projects using terminal, browser, and editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-04-29T17:53:58Z",
+            "owner": "semanser",
+            "repo": "codel",
+            "stars": 2473
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Magentic",
+          "description": "Seamlessly integrate LLMs as Python functions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-11T13:44:45Z",
+            "owner": "jackmpcollins",
+            "repo": "magentic",
+            "stars": 2414
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LLMStack",
+          "description": "No code platform for building LLM-powered applications with custom data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-11T19:59:51Z",
+            "owner": "trypromptly",
+            "repo": "LLMStack",
+            "stars": 2311
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lagent",
+          "description": "A lightweight framework for building LLM-based agents",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T07:18:16Z",
+            "owner": "InternLM",
+            "repo": "lagent",
+            "stars": 2275
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenDAN",
+          "description": "open source Personal AI OS , which consolidates various AI modules in one place for your personal use.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-28T18:09:00Z",
+            "owner": "fiatrete",
+            "repo": "OpenDAN-Personal-AI-OS",
+            "stars": 2053
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Autochain",
+          "description": "Build lightweight, extensible, and testable LLM Agents with AutoChain.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-16T20:53:26Z",
+            "owner": "Forethought-Technologies",
+            "repo": "AutoChain",
+            "stars": 1881
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SmartGPT",
+          "description": "A program that provides LLMs with the ability to complete complex tasks using plugins.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-04-11T05:46:18Z",
+            "owner": "Cormanz",
+            "repo": "smartgpt",
+            "stars": 1735
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uAgents",
+          "description": "A fast and lightweight framework for creating decentralized agents with ease.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T23:00:59Z",
+            "owner": "fetchai",
+            "repo": "uAgents",
+            "stars": 1637
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "llm-chain",
+          "description": "is a powerful rust crate for building chains in LLMs allowing you to summarise text and complete complex tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-10-31T16:19:00Z",
+            "owner": "sobelio",
+            "repo": "llm-chain",
+            "stars": 1605
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dust",
+          "description": "Design and Deploy Large Language Model Apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T02:50:27Z",
+            "owner": "dust-tt",
+            "repo": "dust",
+            "stars": 1437
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RestGPT",
+          "description": "An LLM-based autonomous agent controlling real-world applications via RESTful APIs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-07T13:22:15Z",
+            "owner": "Yifan-Song793",
+            "repo": "RestGPT",
+            "stars": 1403
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chidori",
+          "description": "A reactive runtime for building durable AI agents",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T03:00:34Z",
+            "owner": "ThousandBirdsInc",
+            "repo": "chidori",
+            "stars": 1362
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MiniChain",
+          "description": "A tiny library for coding with large language models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-10T14:59:50Z",
+            "owner": "srush",
+            "repo": "MiniChain",
+            "stars": 1232
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI.JSX",
+          "description": "The AI Application Framework for Javascript",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-09-19T23:44:41Z",
+            "owner": "fixie-ai",
+            "repo": "ai-jsx",
+            "stars": 1132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Axflow",
+          "description": "A comprehensive AI framework for TypeScript",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-03-02T00:14:33Z",
+            "owner": "axflow",
+            "repo": "axflow",
+            "stars": 1122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "axflow",
+          "description": "The TypeScript framework for AI development",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-03-02T00:14:33Z",
+            "owner": "axflow",
+            "repo": "axflow",
+            "stars": 1122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LLM Agents",
+          "description": "Build agents which are controlled by LLMs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-23T14:01:18Z",
+            "owner": "mpaepper",
+            "repo": "llm_agents",
+            "stars": 1053
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Promptise Foundry",
+          "description": "Production Python framework for agentic AI — controllable reasoning, a full MCP server SDK, autonomous runtime, memory, governance, security, and observability. Works with any LangChain .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-30T11:05:54Z",
+            "owner": "promptise-com",
+            "repo": "Foundry",
+            "stars": 865
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MicroAgent",
+          "description": "Agents Capable of Self-Editing Their Prompts / Python Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-15T10:33:38Z",
+            "owner": "aymenfurter",
+            "repo": "microagents",
+            "stars": 826
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fructose",
+          "description": "Fructose is a python package to create a dependable, strongly-typed interface around an LLM call.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-17T17:30:03Z",
+            "owner": "bananaml",
+            "repo": "fructose",
+            "stars": 747
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LLMFlow",
+          "description": "Simple, Explicit and Transparent LLM Apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-20T16:53:45Z",
+            "owner": "stoyan-stoyanov",
+            "repo": "llmflows",
+            "stars": 707
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LLama Cpp Agent",
+          "description": "The llama-cpp-agent framework is a tool designed for easy interaction with Large Language Models",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-09T05:57:48Z",
+            "owner": "Maximilian-Winter",
+            "repo": "llama-cpp-agent",
+            "stars": 653
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agentlabs",
+          "description": "Universal AI Agent Frontend. Build your backend we handle the rest.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-02-06T11:42:40Z",
+            "owner": "agentlabs-dev",
+            "repo": "agentlabs",
+            "stars": 555
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Embedbase",
+          "description": "The native Software 3.0 stack for building AI-powered applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-11-27T22:10:36Z",
+            "owner": "different-ai",
+            "repo": "embedbase",
+            "stars": 523
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agency",
+          "description": "🕵️‍♂️ Library designed for developers eager to explore the potential of Large Language Models (LLMs) and other generative AI through a clean, effective, and Go-idiomatic approach",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-01-08T06:11:11Z",
+            "owner": "neurocult",
+            "repo": "agency",
+            "stars": 514
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReLLM",
+          "description": "Regular Expressions for Language Model Completions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-10T19:42:58Z",
+            "owner": "r2d4",
+            "repo": "rellm",
+            "stars": 511
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "llama-agents",
+          "description": "llama-agents is an async-first framework for building, iterating, and productionizing multi-agent systems, including multi-agent communication, distributed tool execution, human-in-the-loop, and more",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T04:13:00Z",
+            "owner": "run-llama",
+            "repo": "llama-agents",
+            "stars": 438
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LangStream",
+          "description": "Framework for building and running event-driven LLM applications using no-code and Python (including LangChain-based) agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-07-03T19:47:17Z",
+            "owner": "LangStream",
+            "repo": "langstream",
+            "stars": 427
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rigging",
+          "description": "Lightweight LLM Interaction Framework (rust)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T20:14:02Z",
+            "owner": "dreadnode",
+            "repo": "rigging",
+            "stars": 419
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Langstream",
+          "description": "Build robust LLM applications with true composability 🔗",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-03T22:44:33Z",
+            "owner": "rogeriochaves",
+            "repo": "langstream",
+            "stars": 417
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TermGPT",
+          "description": "Giving LLMs like GPT-4 the ability to plan and execute terminal commands",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-07-20T07:07:48Z",
+            "owner": "Sentdex",
+            "repo": "TermGPT",
+            "stars": 412
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgentRun",
+          "description": "The easiest, and fastest way to run AI-generated Python code safely",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-08T15:55:00Z",
+            "owner": "tjmlabs",
+            "repo": "AgentRun",
+            "stars": 376
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenLM",
+          "description": "a drop-in OpenAI-compatible library that can call LLMs from any other hosted inference API. Also Typescript",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-19T16:41:55Z",
+            "owner": "r2d4",
+            "repo": "openlm",
+            "stars": 368
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgentFlow",
+          "description": "About Complex LLM Workflows from Simple JSON.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-11T18:07:43Z",
+            "owner": "simonmesmith",
+            "repo": "agentflow",
+            "stars": 320
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bondai",
+          "description": "AI-powered assistant with a lightweight, versatile API for seamless integration into your own applications",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-14T02:06:07Z",
+            "owner": "krohling",
+            "repo": "bondai",
+            "stars": 223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Groq Ruby",
+          "description": "Groq Cloud runs LLM models fast and cheap. This is a convenience client library for Ruby.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-07-30T21:42:07Z",
+            "owner": "drnic",
+            "repo": "groq-ruby",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LLFn",
+          "description": "A light-weight framework for creating applications using LLMs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-30T12:55:13Z",
+            "owner": "orgexyz",
+            "repo": "LLFn",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hyv",
+          "description": "Probably the easiest way to use any AI Model in Node.js and create complex interactions with ease.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-03-03T17:32:12Z",
+            "owner": "blib-la",
+            "repo": "hyv",
+            "stars": 24
+          }
+        }
+      ],
+      "title": "Other LLM Frameworks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome LLM",
+          "description": "Awesome-LLM: a curated list of Large Language Model resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-07-31T02:38:24Z",
+            "owner": "Hannibal046",
+            "repo": "Awesome-LLM",
+            "stars": 27256
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open LLMs",
+          "description": "A list of open LLMs available for commercial use",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-13T06:37:12Z",
+            "owner": "eugeneyan",
+            "repo": "open-llms",
+            "stars": 12849
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Language Agents",
+          "description": "List of language agents based on paper \"Cognitive Architectures for Language Agents\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2025-01-16T19:58:19Z",
+            "owner": "ysymyth",
+            "repo": "awesome-language-agents",
+            "stars": 1247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LLaMA Cult and More",
+          "description": "Keeping Track of Affordable LLMs, 🦙 Cult and More",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-06-01T16:00:59Z",
+            "owner": "shm007g",
+            "repo": "LLaMA-Cult-and-More",
+            "stars": 449
+          }
+        }
+      ],
+      "title": "Complement to this list"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:23:56.542Z",
+    "original_repository": "kyrolabs/awesome-langchain",
+    "original_repository_sha": "9796b1d50c20c65cccbf4ccd2dc1497a8b15cd79",
+    "enhanced_repository": "enhansome/enhansome-langchain",
+    "enhanced_repository_description": null,
+    "title": "🦜🔗 Awesome LangChain with stars"
+  }
+}
